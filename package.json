@@ -2,7 +2,7 @@
   "name": "Xrutz-Bot",
   "version": "1.0.0",
   "description": "JANGAN DI UBAH TOD LU CUMAN NUMPANG",
-  "main": "Xrutz.js",
+  "main": "main.js",
   "directories": {
     "lib": "lib"
   },
