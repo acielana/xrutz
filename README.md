@@ -35,7 +35,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## DEPLOY HEROKU
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Facielana%2xrutz)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/acielana/xrutz)
 
 ## INSTALL VIA GIT
 
